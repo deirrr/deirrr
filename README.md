@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Deirrr 👋
 
-<!--
-**deirrr/deirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://komarev.com/ghpvc/?username=deirrr&color=blue)
 
-Here are some ideas to get you started:
+I build open-source information systems and automation tools.  
+Currently exploring full-stack development, workflow automation, and modern software design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I’m Working On
+- Open-source information system concepts  
+- Automation tools for faster development  
+
+### 🧰 Tech Interests
+- Full-stack development (Laravel, JavaScript)
+- Database design & optimization
+- System architecture
+- Automation & scripting
+
+### 📫 Reach Me
+LinkedIn: https://www.linkedin.com/in/deirrr/

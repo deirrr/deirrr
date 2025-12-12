@@ -1,7 +1,5 @@
 # Hi, I'm Deirrr 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=deirrr&color=blue)
-
 I build open-source information systems and automation tools.  
 Currently exploring full-stack development, workflow automation, and modern software design.
 

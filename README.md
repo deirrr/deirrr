@@ -12,6 +12,7 @@ Currently exploring full-stack development, workflow automation, and modern soft
 - Database design & optimization
 - System architecture
 - Automation & scripting
+- Learning Rust & Distributed Systems
 
 ### 📫 Reach Me
 LinkedIn: https://www.linkedin.com/in/deirrr/

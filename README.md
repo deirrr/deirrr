@@ -1,18 +1,19 @@
 # Hi, I'm Deirrr 👋
 
-I build open-source information systems and automation tools.  
-Currently exploring full-stack development, workflow automation, and modern software design.
+Backend Engineer focused on backend systems and APIs.
+
+Currently working on backend services for large-scale production systems, including API development, system integration, and system maintenance. I have experience building and maintaining full-stack Laravel-based applications, and I am currently focusing on backend development using Node.js (NestJS).
 
 ### 🔧 What I’m Working On
-- Open-source information system   
-- Automation tools for End-User
+- Backend APIs and services using NestJS
+- Maintaining and improving existing production systems
+- Open-source backend and automation projects
 
-### 🧰 Tech Interests
-- Full-stack development (Laravel, JavaScript)
-- Database design & optimization
-- System architecture
-- Automation & scripting
-- Learning Rust & Distributed Systems
+### 🧰 Tech Stack & Interests
+- Backend Development (Node.js, NestJS)
+- Full-stack experience with Laravel
+- REST APIs & system design
+- Databases & automation
+- Exploring systems programming with Rust
 
-### 📫 Reach Me
-LinkedIn: https://www.linkedin.com/in/deirrr/
+📫 LinkedIn: https://www.linkedin.com/in/deirrr/
